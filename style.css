@@ -10,3 +10,28 @@ h3{
 padding-top: 20px;
 font-family: 'Unica One'; font-size: 26px;
 }
+.watch_container{
+    width: 540;
+    height: 200;
+    background-color: #1A1818;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 2px;
+    border-radius: 13px;
+    margin-bottom: 15px;
+}
+.text{
+    color:white;
+    font-family: 'Unica One'; font-size: 26px;
+}
+.watch_description{
+    font-family: 'Times New Roman', Times, serif; font-size:12;
+}
+.picture{
+    margin: 10px;
+    max-height: 200;
+    width: 50px;
+}
+.watch_description{
+    font-size:11px
+}
