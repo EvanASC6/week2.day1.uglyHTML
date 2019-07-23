@@ -3,11 +3,10 @@ html{
 }
 .top{
     text-align: center;
-    font-family: 'Tangerine'; font-size: 72px; color: white;
-
+    font-family: 'Tangerine'; font-size: 72px; color: whitesmoke;
+    padding: 20px;
 }
 h3{
-padding-top: 20px;
 font-family: 'Unica One'; font-size: 26px;
 }
 .watch_container{
@@ -15,23 +14,40 @@ font-family: 'Unica One'; font-size: 26px;
     height: 200;
     background-color: #1A1818;
     border-style: solid;
-    border-color: yellow;
+    border-color: #FDEFA6;
     border-width: 2px;
     border-radius: 13px;
     margin-bottom: 15px;
+    margin:50px;
 }
 .text{
-    color:white;
+    color:whitesmoke;
     font-family: 'Unica One'; font-size: 26px;
+    margin: 16px
 }
 .watch_description{
     font-family: 'Times New Roman', Times, serif; font-size:12;
+    padding-left: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    font-family: 'Dosis'; font-size: 16px; color: whitesmoke;
+
 }
 .picture{
     margin: 10px;
-    max-height: 200;
-    width: 50px;
+    max-height: 200px;
+    width: 150px;
+    float:left;
+    padding-top:16px
 }
-.watch_description{
-    font-size:11px
+
+footer{
+    margin-top:25px;
+    margin-bottom:25px;
+    font-family: 'Dosis'; font-size: 30px; color: whitesmoke;
+    text-align: center;
+    
+}
+.pic{
+    height: 400px
 }
