@@ -1,0 +1,12 @@
+html{
+    background-color : rgb(53,53,53);
+}
+.top{
+    text-align: center;
+    font-family: 'Tangerine'; font-size: 72px; color: white;
+
+}
+h3{
+padding-top: 20px;
+font-family: 'Unica One'; font-size: 26px;
+}
